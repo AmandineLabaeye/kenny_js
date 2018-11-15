@@ -22,3 +22,13 @@
     text-align: center;
     margin-top: 25px;
 }
+
+#couleur {
+    position: absolute;
+    height: 490px;
+    width: 50px;
+    margin: auto;
+    border: 5px solid red;
+    top: 0px;
+    left: 0px;
+}
